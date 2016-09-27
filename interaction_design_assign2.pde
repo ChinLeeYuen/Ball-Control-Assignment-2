@@ -1,3 +1,8 @@
+Chin Lee Yuen
+1142701984
+UI Component
+
+
 import controlP5.*;
 ControlP5 cp5;
 
